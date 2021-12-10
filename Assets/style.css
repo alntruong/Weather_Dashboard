@@ -1,8 +1,13 @@
 header {
- padding-top: 25px;
- padding-bottom: 25px;
+ padding-top: 20px;
+ padding-bottom: 20px;
  background-color: #0E3EAE;
  color: white;
  text-align: center;
+
+}
+
+.title {
  font-family: 'Open Sans', sans-serif;
+ font-weight: bold;
 }
