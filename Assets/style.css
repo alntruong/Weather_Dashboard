@@ -1,14 +1,45 @@
-header {
- padding-top: 20px;
- padding-bottom: 20px;
- background-color: #0E3EAE;
- color: white;
- text-align: center;
+body {
+ background-color: #425eb1;
+}
 
+.container-fluid {
+ color: white;
+ font-family: 'Open Sans', sans-serif;
+ display: flex;
+ flex-direction: column;
+ padding-top: 200px;
+}
+
+.navbar-brand {
+ text-align: center;
 }
 
 .title {
- font-family: 'Open Sans', sans-serif;
  font-weight: bold;
 }
 
+.form {
+ display: flex;
+ flex-direction: row;
+}
+
+.search-field {
+ width: 100%;
+ padding: 10px 35px 10px 15px;
+ border: none;
+ border-radius: 100px;
+ outline: none;
+}
+
+.searchBtn {
+ background: transparent;
+ border: none;
+ outline: none;
+ margin-left: -33px;
+}
+
+.searchBtn i {
+ width: 20px;
+ height: 20px;
+ object-fit: cover;
+}
