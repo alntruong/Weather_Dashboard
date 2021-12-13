@@ -1,16 +1,11 @@
 # Weather_Dashboard
 
-Good README file
+This weather dashboard application was made using Visual Studio Code with bootstrap as its main CSS framework.
 
-A README needs to answer the following what, why, and how:
-What was your motivation?
-Why did you build this project?
-What problem does it solve?
-What did you learn?
-What makes your project stand out? If your project has a lot of features, consider adding a "Features" section and listing them here.
+The purpose of this application is to allow the user to search up their city and have information about the current status of the weather displayed.
+In addition, the user is presented with the 5-day weather forecast for that city. [Not done]
 
-The quality of a README desccription often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase:
+My motivation for this project was to work on my Javascript knowledge because it is an area that I feel uncomfortable with.
+An issue that I encountered along the way was that not all informations like UV index and weather icon followed the same method, but instead required additional steps.
 
-What your application does,
-Why you used the technologies you used,
-Some of the challenges you faced and features you hope to implement in the future.
+![image](https://user-images.githubusercontent.com/88170746/145794857-43cf49b1-6d93-452b-a81e-864936837287.png)
